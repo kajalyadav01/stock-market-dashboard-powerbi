@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing 10 years of stock market data
 across 10 global companies including Apple, Nvidia, Microsoft, Amazon and Google.
 
 ## Dashboard Preview
-![Dashboard](Screenshot%2026-05-11%235557.png)
+![Dashboard](Screenshot%202026-05-11%20235557.png)
 
 ## Tools Used
 - Power BI Desktop
